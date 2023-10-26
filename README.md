@@ -1,2 +1,0 @@
-# estudos-typescript
-# sua-pizzaria
